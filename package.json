@@ -1,0 +1,16 @@
+{
+  "name": "chat-ai",
+  "version": "1.0.0",
+  "description": "chat-ai gemii google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelo Franz",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
